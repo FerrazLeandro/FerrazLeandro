@@ -1,7 +1,7 @@
 ### Olá Devs 👋
 
-- 🔭 Atualmente estou trabalhando como QA
-- 🌱 Atualmente estou estudando para me tornar um Desenvolvedor FullStack
+- 🔭 QA
+- 🌱 Futuro Desenvolvedor FullStack
 
 <div>
 <a href="https://www.linkedin.com/in/ferrazleandro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -25,10 +25,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>          
 </div>
 
-### Portifólio
-
 <div>
 <a href="https://github.com/FerrazLeandro">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrazLeandro&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=FerrazLeandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrazLeandro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=FerrazLeandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
