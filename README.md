@@ -3,6 +3,7 @@
 - 🔭 QA
 - 🌱 Futuro Desenvolvedor FullStack
 
+<br>
 <div>
 <a href="https://www.linkedin.com/in/ferrazleandro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "leandro_ferraz@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
@@ -24,7 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>          
 </div>
-
+<br>
 <div>
 <a href="https://github.com/FerrazLeandro">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrazLeandro&layout=compact&langs_count=7&theme=dracula"/>
