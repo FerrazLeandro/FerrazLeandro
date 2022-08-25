@@ -1,12 +1,10 @@
-### Hi! 🚀
+### Hi Devs! 🚀
 
 - 🔭 QA
 - 🌱 Futuro Desenvolvedor FullStack
-<br>
-<div>
+##
 <a href="https://www.linkedin.com/in/ferrazleandro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-
+##
 
 ### Ferramentas e Tecnologias
 
@@ -23,8 +21,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>          
 </div>
-<br>
-<br>
+
+##
 <div>
 <a href="https://github.com/FerrazLeandro">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FerrazLeandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
