@@ -1,5 +1,6 @@
 ### Hi Devs! 🚀
 - 🔭 QA
+- 💻 Residente em Software - Serratec
 - 🌱 Futuro Desenvolvedor FullStack
 
 ##
