@@ -1,5 +1,5 @@
 ### Hi Devs! 🚀
-- 🔭 QA
+- ✔️ QA - Alterdata Software
 - 💻 Residente em Software - Serratec
 - 🌱 Futuro Desenvolvedor FullStack
 
