@@ -18,6 +18,7 @@
 <img align="center" alt="Ferraz-Html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
 <img align="center" alt="Ferraz-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img align="center" alt="Ferraz-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+<img align="center" alt="Ferraz-Pascal" height="40" width="40" src="https://cryptologos.cc/logos/pascal-pasc-logo.png" width="40" height="40"/>
 
 <h2>Tools</h2>
 <div style="display: inline_block">
@@ -29,6 +30,7 @@
 <img align="center" alt="Ferraz-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 <img align="center" alt="Ferraz-Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
 <img align="center" alt="Ferraz-Jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+<img align="center" alt="Ferraz-Jenkins" height="70" width="70" src="https://www.resolve6training.ca/wp-content/uploads/2020/06/Resolve6_smartbear_testcomplete.png" width="70" height="70"/>
 
 <h2>Stats</h2>
 <div align="center">
