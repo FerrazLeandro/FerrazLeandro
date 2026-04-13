@@ -29,14 +29,5 @@
 <img align="center" alt="Ferraz-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 <img align="center" alt="Ferraz-Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
 <img align="center" alt="Ferraz-Jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-<img align="center" alt="Ferraz-Jenkins" height="70" width="70" src="https://www.resolve6training.ca/wp-content/uploads/2020/06/Resolve6_smartbear_testcomplete.png" width="70" height="70"/>
 
-<h2>Stats</h2>
-<div align="center">
-<a href="https://github.com/FerrazLeandro">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=FerrazLeandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrazLeandro&layout=compact&langs_count=7&theme=dark"/>
-
-
-![Snake animation](https://github.com/FerrazLeandro/FerrazLeandro/blob/output/github-contribution-grid-snake.svg)
 </div>
